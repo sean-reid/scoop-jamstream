@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/sean-reid/jamstream/releases/download/v0.4.1/jamstream-cli-windows-x86_64.zip",
-            "hash": "c61c66e4545e397c341a0d3ca5a781f0a7ae79890b5315a1090306994809a846"
+            "hash": "e44fe077372b82d10e91250f7a2bf151fd527a8f2b49f2458f4d127b242571af"
         }
     },
     "bin": "jamstream.exe",
